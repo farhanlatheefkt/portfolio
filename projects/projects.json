@@ -3,7 +3,7 @@
   {
     "name": "Potfolio Site",
       "desc": "Done with HTML, CSS, Javascript, Bootstrap",
-    "image": "portfolio",
+    "image": "./assets/images/projects/portfolio",
     "category": "mern",
     "links": {
       "view": "https://farhanlatheefkt.github.io/portfolio/",
